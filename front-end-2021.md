@@ -1,4 +1,6 @@
 # Front-end 2021. Roadmap & Trends
+Список полезных видео-уроков для изучения веб-разработки.
+Список ресурсов, которые "легли" в основу дорожной карты "Front-end 2021".
 
 ## Полезные видео-курсы:
 
@@ -40,3 +42,7 @@
 - [StateOfJS](https://2019.stateofjs.com)
 - [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
 - [State of Front-end 2020](https://tsh.io/State-of-Frontend-2020-by-TSH.pdf)
+- [JavaScript and Web Development InfoQ Trends Report 2020](https://www.infoq.com/articles/javascript-web-development-trends-2020/)
+- [Экосистема разработки в 2020 году](https://www.jetbrains.com/ru-ru/lp/devecosystem-2020/)
+- [Front End Development Trends 2020](https://fireart.studio/blog/front-end-development-trends-2020-most-popular-javascript-frameworks/)
+- [Web Development Trends and the Latest Web Technology Stacks in 2020](https://clockwise.software/blog/web-development-trends/)
