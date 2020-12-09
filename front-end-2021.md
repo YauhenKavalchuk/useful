@@ -38,7 +38,19 @@
 ### Tools (Additional):
 - [Основы командной строки/Терминал](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv)
 
-## Полезные ссылки:
+## Ресурсы используемые в видео:
+- [Accessibility](https://developers.google.com/web/fundamentals/accessibility)
+- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Data Structures](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+- [Algorithms](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76)
+- [Big O](http://biercoff.com/big-o-complexity-cool-cheat-sheet/)
+- [PWA](https://web.dev/progressive-web-apps/)
+- [WebAssembly](https://webassembly.org)
+- [JAMstack](https://jamstack.org)
+- [Web Components](https://www.webcomponents.org)
+- [CSR vs. SSR](https://www.bacancytechnology.com/blog/client-side-rendering-vs-server-side-rendering-vs-pre-rendering)
+
+## Статистики и статьи:
 - [StateOfJS](https://2019.stateofjs.com)
 - [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
 - [State of Front-end 2020](https://tsh.io/State-of-Frontend-2020-by-TSH.pdf)
