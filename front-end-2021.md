@@ -11,6 +11,7 @@
 
 ### CSS (Basics):
 - [CSS Basics](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
+- [CSS Flexbox](https://www.youtube.com/playlist?list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW)
 - [CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
 
 ### JavaScript (Basics):
