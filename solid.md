@@ -151,7 +151,7 @@ class Square extends Rectangle {
 ```javascript
 interface Figure {
 	setWidth(width: number): void;
-	setHeight(width: number): void;
+	setHeight(height: number): void;
 	areaOf(): void;
 }
 
