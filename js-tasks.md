@@ -149,3 +149,36 @@ minMax([2, 1]);                    // [1, 2]
 minMax([1]);                       // [1, 1]
 ```
 ---
+### Функция дублирования символов строки:
+```javascript
+// Base
+function accum(string) {
+  var arr = string.toUpperCase().split('');
+  var repeatArr = arr.map(function(el,i) {
+  	return el += el.repeat(i).toLowerCase();
+  });
+  var resString = repeatArr.join('-');
+  return resString;
+}
+
+// Advanced
+function accum(string) {
+ return string.toUpperCase().split('').map(
+   function(el,i) {
+     return el += el.repeat(i).toLowerCase();
+   }
+ ).join('-');
+}
+
+// ES6
+const accum = (string) =>
+  string
+  .toUpperCase()
+  .split('')
+  .map((el,i) => `${el}${el.repeat(i).toLowerCase()}`).join('-');
+
+// Result:
+accum("abcd")   // "A-Bb-Ccc-Dddd"
+accum("cwAt")   // "C-Ww-Aaa-Tttt"
+```
+---
