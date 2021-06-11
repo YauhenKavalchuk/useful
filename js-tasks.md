@@ -5,7 +5,7 @@
 
 ### Функция проверки палиндрома:
 ```javascript
-// Base:
+// Base
 function isPalindrome(str) {
   var arr = str.split('');
   var reverseArr = arr.reverse();
@@ -14,12 +14,12 @@ function isPalindrome(str) {
   return res;
 }
 
-// Advanced:
+// Advanced
 function isPalindrome(str) {
   return str === str.split('').reverse().join('');
 }
 
-// ES6:
+// ES6
 const isPalindrome = str =>
   str === str.split('').reverse().join('');
   
@@ -155,7 +155,7 @@ minMax([1]);                       // [1, 1]
 function accum(string) {
   var arr = string.toUpperCase().split('');
   var repeatArr = arr.map(function(el,i) {
-  	return el += el.repeat(i).toLowerCase();
+    return el += el.repeat(i).toLowerCase();
   });
   var resString = repeatArr.join('-');
   return resString;
@@ -180,5 +180,45 @@ const accum = (string) =>
 // Result:
 accum("abcd")   // "A-Bb-Ccc-Dddd"
 accum("cwAt")   // "C-Ww-Aaa-Tttt"
+```
+---
+### Функция возврата индексов заглавных букв строки:
+```javascript
+// Base
+function capitals(word) {
+  var bigLetters = word.toUpperCase().split('');
+  var smallLetters = word.split('');
+  var res = [];
+  for(var i = 0; i < word.length; i++){
+    if(smallLetters[i] === bigLetters[i]){
+      res.push(i);
+    }
+  }
+  return res;
+};
+
+// Advanced
+function capitals(word) {
+  var res = [];
+  word.split('').forEach(function(letter, index) {
+    if (letter === letter.toUpperCase()) {
+      res.push(index);
+    }
+  });
+  return res;  
+};
+
+// ES6:
+const capitals = (word) =>
+  word.split('').reduce((result, letter, index) => {
+    if (letter === letter.toUpperCase()) {
+      result.push(index);
+    }
+    return result;
+  }, []);
+
+// Result:
+capitals('CodEWaRs');     // [0, 3, 4, 6] 
+capitals('justForTest');  // [4, 7]
 ```
 ---
