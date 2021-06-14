@@ -222,3 +222,29 @@ capitals('CodEWaRs');     // [0, 3, 4, 6]
 capitals('justForTest');  // [4, 7]
 ```
 ---
+### Функция вывода чисел от 1 до n (n - передаваемый аргумент):
+### Дополнительные условия:
+- выводить `foo` вместо чисел, кратных 3;
+- выводить `bar` вместо чисел, кратных 5;
+- выводить `foobar` вместо чисел, кратных и 3, и 5.
+```javascript
+// Base
+const fooBar = num => {
+  for(let i = 1; i <= num; i++) {
+    if (i % 3 === 0 && i % 5 === 0) {
+      // multiple of 3 and 5
+      console.log('foobar');
+    } else if (i % 3 === 0) {
+      // multiple of 3
+      console.log('foo');
+    } else if (i % 5 === 0) {
+      // multiple 5
+      console.log('bar');
+    } else {
+      // other numbers
+      console.log(i);
+    }
+  }
+};
+```
+---
