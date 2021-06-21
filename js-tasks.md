@@ -248,3 +248,26 @@ const fooBar = num => {
 };
 ```
 ---
+### Функция возврата уникальных значений из нескольких массивов:
+```javascript
+// Base
+function uniteUnique() {
+  const arr = [...arguments];
+  let newArr = [];
+  for(var i = 0; i < arr.length; i++){
+    newArr.push(...arr[i]); 
+  }
+  newArr = new Set(newArr);
+  return [...newArr];
+}
+
+// Advanced
+function uniteUnique() {
+  return [...new Set([...arguments].flat())];
+}
+
+// Result:
+uniteUnique([1,2,3], [4,1,5], [6,7,8,5]);     // [1, 2, 3, 4, 5, 6, 7, 8]
+uniteUnique([1], [2], [3,2,2], [4,1,1,2]);    // [1, 2, 3, 4]
+```
+---
