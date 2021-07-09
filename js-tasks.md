@@ -271,3 +271,28 @@ uniteUnique([1,2,3], [4,1,5], [6,7,8,5]);     // [1, 2, 3, 4, 5, 6, 7, 8]
 uniteUnique([1], [2], [3,2,2], [4,1,1,2]);    // [1, 2, 3, 4]
 ```
 ---
+
+### Функция форматирования цифр в телефонный номер:
+```javascript
+// Base
+function createPhoneNumber(number) {
+  let numArr = number.toString().split('');
+  numArr.splice(0,0,'(');
+  numArr.splice(4,0,')');
+  numArr.splice(5,0,' ');
+  numArr.splice(9,0,'-');
+  return numArr.join('');
+}
+
+// Advanced
+const createPhoneNumber = (number) => {
+  const strNum = number.toString();
+  // template pattern: (xxx) xxx-xxx
+  return `(${strNum.slice(0, 3)}) ${strNum.slice(3, 6)}-${strNum.slice(6, 9)}`;
+}
+
+// Result:
+createPhoneNumber(123456789);        // "(123) 456-789"
+createPhoneNumber(555095611);        // "(555) 095-611"
+```
+---
