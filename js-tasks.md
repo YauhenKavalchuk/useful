@@ -316,7 +316,7 @@ const findVowels = (str) => {
 }
 
 // Result:
-findVowels('hello');					// 2
-findVowels('hello world');		// 3
+findVowels('hello');          // 2
+findVowels('hello world');    // 3
 ```
 ---
