@@ -271,7 +271,6 @@ uniteUnique([1,2,3], [4,1,5], [6,7,8,5]);     // [1, 2, 3, 4, 5, 6, 7, 8]
 uniteUnique([1], [2], [3,2,2], [4,1,1,2]);    // [1, 2, 3, 4]
 ```
 ---
-
 ### Функция форматирования цифр в телефонный номер:
 ```javascript
 // Base
@@ -294,5 +293,30 @@ const createPhoneNumber = (number) => {
 // Result:
 createPhoneNumber(123456789);        // "(123) 456-789"
 createPhoneNumber(555095611);        // "(555) 095-611"
+```
+---
+### Функция поиска гласных букв в строке:
+```javascript
+// Base
+const findVowels = (str) => {
+const vowels = ['a', 'e', 'i', 'o', 'u'];
+  let count = 0;
+  for(let char of str.toLowerCase()) {
+    if(vowels.includes(char)) {
+      count++;
+    }
+  }
+  return count;
+}
+
+// Advanced
+const findVowels = (str) => {
+  const matches = str.match(/[aeiou]/gi);
+  return matches ? matches.length : 0;
+}
+
+// Result:
+findVowels('hello');					// 2
+findVowels('hello world');		// 3
 ```
 ---
