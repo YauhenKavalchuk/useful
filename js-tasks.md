@@ -320,3 +320,28 @@ findVowels('hello');          // 2
 findVowels('hello world');    // 3
 ```
 ---
+### Функция трансформации букв в заглавный регистр:
+```javascript
+// Base
+function toCapitalCase1(str) {
+  const arr = str.split(' ');
+  const resArr = [];
+  
+  for (let i = 0; i < arr.length; i++) {
+    resArr.push(arr[i][0].toUpperCase() + arr[i].slice(1));
+  }
+
+  return resArr.join(' ');
+}
+
+// Advanced
+const toCapitalCase = (str) =>
+  str
+    .split(' ')
+    .map((word) => `${word[0].toUpperCase()}${word.slice(1)}`)
+    .join(' ');
+
+// Result:
+toCapitalCase('Lorem ipsum is simply dummy text of the printing, typesetting');  // "Lorem Ipsum Is Simply Dummy Text Of The Printing, Typesetting"
+```
+---
