@@ -1,7 +1,7 @@
 
 # Front-end 2022. Roadmap & Trends
 Список полезных видео-уроков для изучения веб-разработки.
-Список ресурсов, которые "легли" в основу дорожной карты "Front-end 2022".
+А так же ресурсы, статьи и аналитики, которые "легли" в основу дорожной карты "Front-end 2022".
 
 ### [YouTube: Front-end 2022 Roadmap & Trends | Что учить в 2022?]()
 
@@ -71,10 +71,14 @@
 ---
 
 ### Ресурсы используемые в видео:
+- [HTML and semantic tagging](https://developers.google.com/style/semantic-tagging)
+- [About The W3C Markup Validation Service](https://validator.w3.org/about.html)
 - [Accessibility](https://developers.google.com/web/fundamentals/accessibility)
-- [Data Structures](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+- [Responsive Web Design](https://web.dev/responsive-web-design-basics/)
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - [Algorithms](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76)
 - [Big O](http://biercoff.com/big-o-complexity-cool-cheat-sheet/)
+- [Руководство по ES6](https://frontend-stuff.com/blog/es6/)
 - [Web Components](https://www.webcomponents.org)
 
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
