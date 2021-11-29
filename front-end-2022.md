@@ -48,6 +48,13 @@
 
 ---
 
+### Полезные ссылки:
+
+### Вопросы и ответы для подготовки к собеседованию:
+- [Front-end. Вопросы и ответы](https://github.com/YauhenKavalchuk/interview-questions)
+
+---
+
 ### Интересные статьи и аналитики:
 - [7 Tools for Faster Frontend Development in 2022](https://blog.bitsrc.io/7-tools-for-faster-frontend-development-in-2022-43b6f663c607)
 - [Top 5 JavaScript Frameworks for 2022](https://javascript.plainenglish.io/top-5-javascript-frameworks-for-2022-270521f63a2f)
