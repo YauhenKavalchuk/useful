@@ -14,37 +14,37 @@
 ### Полезные видео-курсы:
 
 ### HTML:
-- [HTML Basics](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
+- [HTML Basics](https://www.youtube.com/watch?v=NUtloXE1L9U&list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7&index=1)
 
 ### CSS:
-- [CSS Basics](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
-- [CSS Flexbox](https://www.youtube.com/playlist?list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW)
-- [CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
+- [CSS Basics](https://www.youtube.com/watch?v=8pQKDVRc0T8&list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA&index=1)
+- [CSS Flexbox](https://www.youtube.com/watch?v=O-ytfplFQ3c&list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW&index=1)
+- [CSS Grid](https://www.youtube.com/watch?v=LHW_M9mf4Is&list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21&index=1)
 
 ### JavaScript:
-- [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
-- [JavaScript Design Patterns](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
+- [JavaScript](https://www.youtube.com/watch?v=DPfaa66OZj8&list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&index=1)
+- [JavaScript Design Patterns](https://www.youtube.com/watch?v=RyY6x_6ws4s&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=1)
 
 ### JavaScript (Syntax):
-- [ES6](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
-- [ES7-ES9 Features](https://www.youtube.com/playlist?list=PLNkWIWHIRwMH_05WTvIX419odDtStynm3)
-- [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
+- [ES6](https://www.youtube.com/watch?v=3PDq09nqCTs&list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD&index=1)
+- [ES7-ES9 Features](https://www.youtube.com/watch?v=ZjR-oBsuQcs&list=PLNkWIWHIRwMH_05WTvIX419odDtStynm3&index=1)
+- [TypeScript](https://www.youtube.com/watch?v=MtO76yEYbxA&list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&index=1)
 
 ### JavaScript (Frameworks):
-- [React & Redux](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
-- [VueJS](https://www.youtube.com/playlist?list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
-- [TypeScript & React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq)
+- [React & Redux](https://www.youtube.com/watch?v=2vujABNBFAY&list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4&index=1)
+- [VueJS](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB&index=1)
+- [TypeScript & React](https://www.youtube.com/watch?v=acO37eSCowc&list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&index=1)
 
 ### Testing:
-- [Jest & Enzyme](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS)
-- [React Testing Library](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK)
+- [Jest & Enzyme](https://www.youtube.com/watch?v=2iUEhfRl1nY&list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS&index=1)
+- [React Testing Library](https://www.youtube.com/watch?v=v4pycbXkP1Y&list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK&index=1)
 
 ### SSR & SSG:
-- [Next.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHjz7hM5o10BNc6dq0OMd2U)
+- [Next.js](https://www.youtube.com/watch?v=M1Y7JmaslkU&list=PLNkWIWHIRwMHjz7hM5o10BNc6dq0OMd2U&index=1)
 
 ### Server:
-- [Node.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0)
-- [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
+- [Node.js](https://www.youtube.com/watch?v=xJvAfWinaow&list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0&index=1)
+- [GraphQL](https://www.youtube.com/watch?v=kZs7CXrtT-s&list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu&index=1)
 
 ---
 
