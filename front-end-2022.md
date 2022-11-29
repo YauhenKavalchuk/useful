@@ -3,7 +3,7 @@
 Список полезных видео-уроков для изучения веб-разработки.
 А так же ресурсы, статьи и аналитики, которые "легли" в основу дорожной карты "Front-end 2022".
 
-### [YouTube: Front-end 2022 Roadmap & Trends | Что учить в 2022?]()
+### [YouTube: Front-end 2022 Roadmap & Trends | Что учить в 2022?](https://youtu.be/YDKFWhBkC8c)
 
 ### Поддержать развитие канала:
 [<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
