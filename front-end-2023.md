@@ -2,7 +2,7 @@
 Список полезных видео-уроков для изучения веб-разработки.
 А так же ресурсы, статьи и аналитики, которые "легли" в основу дорожной карты "Front-end Trends 2023".
 
-### [Front-end 2023 Roadmap & Trends | Что учить в 2023?]()
+### [Front-end 2023 Roadmap & Trends | Что учить в 2023?](https://youtu.be/VMjRWJWWDuo)
 
 ### Поддержать развитие канала:
 [<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
