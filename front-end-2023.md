@@ -30,11 +30,11 @@
 
 ### SPA:
 - [React & Redux](https://www.youtube.com/watch?v=2vujABNBFAY&list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4&index=1)
-- [Vue JS](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB&index=1)
+- [Vue.js](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB&index=1)
 - [TypeScript & React](https://www.youtube.com/watch?v=acO37eSCowc&list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&index=1)
 
 ### State Management:
-- [State Management](https://www.youtube.com/watch?v=SKy3vXLh8A8&list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K&index=1)
+- [MobX](https://www.youtube.com/watch?v=SKy3vXLh8A8&list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K&index=1)
 
 ### Side Effects:
 - [Redux-Saga](https://www.youtube.com/watch?v=TGqixbqAlxQ&list=PLNkWIWHIRwMFrVMaVMOYflo8R4QBk4vk0&index=1)
@@ -57,11 +57,15 @@
 
 - [Вопросы и ответы для подготовки к собеседованию](https://github.com/YauhenKavalchuk/interview-questions)
 - [Плагины для VS Code](https://youtu.be/g8LmiLTXkqo)
+- [Как быстро вырасти от Junior до Middle?](https://youtu.be/GJ6zdwngeTo)
+- [React vs. Angular vs. Vue. Что изучать?](https://youtu.be/jOgBIt4Lki0)
+- [Советы по собеседованию в IT компанию](https://youtu.be/VYvu-oKYcSg)
+- [Что обязательно должен спросить Junior на собеседовании](https://youtu.be/n5hbeJrGoj8)
+- [Правильное Резюме и Портфолио Junior разработчика](https://youtu.be/Ds46EE-4DNs)
+- [Вы неправильно изучаете программирование](https://youtu.be/tFTslbYdJFQ)
 - [Сервисы для веб-разработчика. 1-я Часть](https://youtu.be/EeoQepXaOBY)
 - [Сервисы для веб-разработчика. 2-я Часть](https://youtu.be/Dq49ZHyyg_U)
 - [Технические сайты для разработчика](https://youtu.be/xMxtK18MCEQ)
-- [Как быстро вырасти от junior до middle?](https://youtu.be/GJ6zdwngeTo)
-- [React vs. Angular vs. Vue: что изучать?](https://youtu.be/jOgBIt4Lki0)
 
 ---
 
