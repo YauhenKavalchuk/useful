@@ -83,5 +83,6 @@ https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
 - [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - [Comparing SPA to SSG and SSR](https://fauna.com/blog/comparing-spas-to-ssg-and-ssr)
 - [Micro Frontends](https://micro-frontends.org)
+- [Module Federatio](https://webpack.js.org/concepts/module-federation/)
 - [JAMStack](https://jamstack.org/community/)
 - [Web Components](https://www.webcomponents.org)
