@@ -74,7 +74,6 @@ https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
 - [Front End Development Trends 2023](https://fireart.studio/blog/front-end-development-trends-2020-most-popular-javascript-frameworks/)
 - [Best Javascript Machine Learning Libraries in 2023](https://www.zipy.ai/blog/best-javascript-machine-learning-libraries)
 - [7 Best Framework for JamStack [2023]](https://geekflare.com/best-framework-for-jamstack/)
-- [Are Web Components Dead?](https://web-highlights.com/blog/are-web-components-dead/)
 - [What Is A Web3 Framework? Web 3.0 Blockchain Development](https://www.doubloin.com/learn/web3-framework-blockchain-development/)
 
 ---
@@ -86,3 +85,5 @@ https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
 - [Module Federatio](https://webpack.js.org/concepts/module-federation/)
 - [JAMStack](https://jamstack.org/community/)
 - [Web Components](https://www.webcomponents.org)
+- [Are Web Components Dead?](https://web-highlights.com/blog/are-web-components-dead/)
+- [What is machine learning?](https://www.ibm.com/topics/machine-learning)
