@@ -2,7 +2,7 @@
 Список полезных видео-уроков для изучения веб-разработки.
 А так же ресурсы, статьи и аналитики, которые "легли" в основу дорожной карты "Web Development Trends 2024".
 
-### [Front-end 2024 Roadmap & Trends | Что учить в 2024?]()
+### [Front-end 2024 Roadmap & Trends | Что учить в 2024?](https://youtu.be/f76BnFk3pLI)
 
 ### Поддержать развитие канала:
 https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
