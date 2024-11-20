@@ -1,7 +1,8 @@
 # Front-end 2025. Roadmap & Trends
 Список полезных видео-уроков для изучения веб-разработки.
 
-### [Front-end 2025 Roadmap & Trends | Что учить в 2025?]()
+#### Видео: [Front-end 2025 Roadmap & Trends | Что учить в 2025?]()
+#### Дорожная картf: [Front-end 2025]()
 
 ### Поддержать развитие канала:
 https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
@@ -29,7 +30,7 @@ https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
 ### SPA:
 - [React & Redux](https://www.youtube.com/watch?v=2vujABNBFAY&list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4&index=1)
 - [Vue.js](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB&index=1)
-- [TypeScript & React](https://www.youtube.com/watch?v=acO37eSCowc&list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&index=1)
+- [TypeScript и React](https://www.youtube.com/watch?v=acO37eSCowc&list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&index=1)
 
 ### SSR & SSG:
 - [Next.js](https://www.youtube.com/watch?v=M1Y7JmaslkU&list=PLNkWIWHIRwMHjz7hM5o10BNc6dq0OMd2U&index=1)
@@ -40,7 +41,7 @@ https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
 - [MongoDB](https://www.youtube.com/watch?v=xnR5XiQBdJw&list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR&index=1)
 
 ### Testing:
-- [Jest & Enzyme](https://www.youtube.com/watch?v=2iUEhfRl1nY&list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS&index=1)
+- [Jest и Enzyme](https://www.youtube.com/watch?v=2iUEhfRl1nY&list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS&index=1)
 - [React Testing Library](https://www.youtube.com/watch?v=v4pycbXkP1Y&list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK&index=1)
 
 ---
