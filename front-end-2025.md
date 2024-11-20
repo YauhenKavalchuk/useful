@@ -2,7 +2,7 @@
 Список полезных видео-уроков для изучения веб-разработки.
 
 #### Видео: [Front-end 2025 Roadmap & Trends | Что учить в 2025?]()
-#### Дорожная картf: [Front-end 2025]()
+#### Дорожная картf: [Front-end 2025](https://drive.google.com/file/d/1-iqN0jgaWzcgmiO_my9MX2oLE-AP3LUy/view?usp=drive_link)
 
 ### Поддержать развитие канала:
 https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
